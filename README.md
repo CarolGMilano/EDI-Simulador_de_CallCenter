@@ -173,7 +173,7 @@ git clone https://github.com/CarolGMilano/EDI-Simulador_de_CallCenter.git
 2. Compile o projeto:
 
 ```bash
-gcc chamada/chamada.c atendimento/atendimento.c historico/historico.c model/prioridade.c  main.c  -o sistemaCallCenter
+gcc chamada/chamada.c atendimento/atendimento.c historico/historico.c model/prioridade.c  dados_teste/dados_teste.c main.c -o sistemaCallCenter
 ```
 
 3. Execute o projeto:
